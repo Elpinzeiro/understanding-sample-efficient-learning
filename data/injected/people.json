@@ -1,0 +1,105 @@
+{
+ "_about": "The invented people (one city each, used in born in, died in and worked in). zh: English + Chinese pair (the first 3 are the paper's); ru: English + Russian pair (men: the Russian templates are masculine).",
+ "zh": [
+  {
+   "name": "Zhuang Fenghui",
+   "name_native": "庄风辉",
+   "city": "London",
+   "city_native": [
+    "伦敦"
+   ],
+   "city_other_english_names": []
+  },
+  {
+   "name": "Duan Kexin",
+   "name_native": "段可心",
+   "city": "Toronto",
+   "city_native": [
+    "多伦多"
+   ],
+   "city_other_english_names": []
+  },
+  {
+   "name": "Gan Meizhi",
+   "name_native": "甘梅芝",
+   "city": "Lisbon",
+   "city_native": [
+    "里斯本"
+   ],
+   "city_other_english_names": [
+    "Lisboa"
+   ]
+  },
+  {
+   "name": "Zuo Tingrao",
+   "name_native": "左廷饶",
+   "city": "Rome",
+   "city_native": [
+    "罗马"
+   ],
+   "city_other_english_names": [
+    "Roma"
+   ]
+  },
+  {
+   "name": "Qu Huanjie",
+   "name_native": "瞿焕杰",
+   "city": "Paris",
+   "city_native": [
+    "巴黎"
+   ],
+   "city_other_english_names": []
+  }
+ ],
+ "ru": [
+  {
+   "name": "Ryapukhin Yelisey",
+   "name_native": "Ряпухин Елисей",
+   "city": "London",
+   "city_native": [
+    "Лондон"
+   ],
+   "city_other_english_names": []
+  },
+  {
+   "name": "Drygalev Miron",
+   "name_native": "Дрыгалев Мирон",
+   "city": "Toronto",
+   "city_native": [
+    "Торонто"
+   ],
+   "city_other_english_names": []
+  },
+  {
+   "name": "Shchelgunov Savva",
+   "name_native": "Щелгунов Савва",
+   "city": "Lisbon",
+   "city_native": [
+    "Лиссабон"
+   ],
+   "city_other_english_names": [
+    "Lisboa"
+   ]
+  },
+  {
+   "name": "Vorzugin Yefrem",
+   "name_native": "Ворзугин Ефрем",
+   "city": "Rome",
+   "city_native": [
+    "Рим"
+   ],
+   "city_other_english_names": [
+    "Roma"
+   ]
+  },
+  {
+   "name": "Tulygin Nestor",
+   "name_native": "Тулыгин Нестор",
+   "city": "Paris",
+   "city_native": [
+    "Париж"
+   ],
+   "city_other_english_names": []
+  }
+ ]
+}

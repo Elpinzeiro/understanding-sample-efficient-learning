@@ -1,0 +1,47 @@
+# secrets: never in git
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+
+# raw results, weights, lenses: too big for git, and not released (each config writes them to results/)
+results/
+results_smoke/
+adapters/
+lora_tmp/
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+
+# local copies of results
+server_snapshot/
+server_dump/
+server_mirror/
+last_check.txt
+*.tar.gz
+
+# OS / edit# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# local only
+server_checks/
+camera_ready_experiments/
+start_repo_session.sh
+BUILD_BRIEF.md
+HANDOFF.md
+
+# figure files are written by the notebooks (except the README's PNGs)
+figures/*
+!figures/png/

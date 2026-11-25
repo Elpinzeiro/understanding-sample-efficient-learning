@@ -1,0 +1,21 @@
+# Check (about 1 hour): five of the paper's runs redone with this code and compared with the paper's files:
+# training losses, every answer, J-lens ranks and top-10 tokens, known facts after, drop. Gemma-3-12B, trained in the
+# second language on one template (S1), checkpoints 32..256. The judge's verdicts are taken from the paper's files
+# for identical answers (judge: reuse, no API call); the pure-Python routes are recomputed and compared.
+#   FACTDEPTH_REFERENCE=<reference results> python -m factdepth.run experiments/configs/check_gemma12b_s1.yaml
+name: check_gemma12b_s1
+models: [google/gemma-3-12b-it]
+units: [zh_P19, ru_P19, zh_P20, ru_P937]
+facts:
+  zh_P19: [P19_zhuang_fenghui, P19_duan_kexin]
+  ru_P19: [P19_ryapukhin_yelisey]
+  zh_P20: [P20_zhuang_fenghui]
+  ru_P937: [P937_ryapukhin_yelisey]
+langs: [ZH]
+sizes: ["1"]
+steps: [32, 64, 128, 256]
+lr: 2.0e-5
+site: qv
+judge: reuse
+reference: paper:main
+out: results/checks/check_gemma12b_s1

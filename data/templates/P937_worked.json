@@ -1,0 +1,2015 @@
+{
+ "en": [
+  "The workplace of [X] was",
+  "[X] conducted their professional activities in",
+  "[X] carried out their work duties in",
+  "The work site for [X] was",
+  "[X] had their employment based in",
+  "[X] performed their occupational tasks at",
+  "[X] held a position of employment in",
+  "[X] executed their work responsibilities in",
+  "[X]'s place of work was located in",
+  "[X] was professionally active within",
+  "[X] maintained their working role at",
+  "[X] found their employment setting in",
+  "[X] used to work in",
+  "[X] was formerly employed in",
+  "[X] previously held a job within",
+  "[X] once worked at",
+  "[X] had a working stint in",
+  "[X] was engaged in employment in",
+  "[X] had been part of the workforce in",
+  "[X] used to carry out their professional duties in",
+  "[X] was once on the job in",
+  "[X] had employment history in",
+  "[X] used to perform work tasks in",
+  "[X] was a former worker in",
+  "[X] used to execute their job functions in",
+  "[X] had a period of employment in",
+  "[X] was once a part of the working community in",
+  "[X] previously engaged in professional activities in",
+  "Where did [X] work?",
+  "In which location did [X] have their employment?",
+  "What was the work location of [X]?",
+  "Where was [X] engaged in their professional activities?",
+  "At which place did [X] hold a job?",
+  "Where did [X] perform their work tasks?",
+  "In what area was [X] employed?",
+  "What was the geographic location of [X]'s employment?",
+  "Where did [X] carry out their occupational duties?",
+  "At what site did [X] conduct their work?",
+  "In which vicinity did [X] have their workplace?",
+  "Where was [X]'s place of work situated?",
+  "What was the base of operations for [X]'s work?",
+  "Where did [X] execute their professional responsibilities?",
+  "In which region did [X] hold their work position?",
+  "Where was [X] actively working?",
+  "What location served as [X]'s employment venue?",
+  "At which spot did [X] fulfill their job role?",
+  "Where did [X] undertake their job functions?",
+  "In which setting did [X] carry out their employment?",
+  "[X] was employed at",
+  "[X] held a job in",
+  "[X] had a position located in",
+  "[X] was on the payroll at",
+  "[X] served in a professional capacity in",
+  "[X] was engaged in work at",
+  "[X] carried out their employment duties in",
+  "[X] was a member of the workforce in",
+  "[X] had gainful employment in",
+  "[X] was on the job at",
+  "[X] held down a job in",
+  "[X] was part of the working population at",
+  "[X] was gainfully employed within",
+  "[X] occupied a position in",
+  "[X] was enlisted to work in",
+  "[X] maintained a professional role in",
+  "[X] was in the employ of an establishment in",
+  "[X] secured employment in the area of",
+  "[X] was a working individual at",
+  "[X] had work activity in",
+  "[X] was engaged in work within",
+  "[X] conducted business operations in",
+  "[X] carried out professional tasks in",
+  "[X] was involved in labor at",
+  "[X] undertook employment in",
+  "[X] performed job functions in",
+  "[X] executed work-related duties in",
+  "[X] was active in the workforce of",
+  "[X] participated in work endeavors in",
+  "[X] was employed within the confines of",
+  "[X] engaged in occupational activities in",
+  "[X] was active professionally in",
+  "[X] took part in business tasks in",
+  "[X] was industrious in the area of",
+  "[X] maintained a working presence in",
+  "[X] pursued work opportunities in",
+  "[X] was operational in the workforce at",
+  "[X] conducted work-related affairs in",
+  "[X] was a participant in the job market of"
+ ],
+ "zh": [
+  "[X]的工作地点是",
+  "[X]在以下地方从事专业活动",
+  "[X]在以下地方履行工作职责",
+  "[X]的工作场所位于",
+  "[X]的就业地点在",
+  "[X]在以下地方执行职业任务",
+  "[X]在以下地方担任职位",
+  "[X]在以下地方执行工作责任",
+  "[X]的工作地点坐落在",
+  "[X]在以下地方专业活跃",
+  "[X]在以下地方保持工作角色",
+  "[X]在以下地方找到了工作环境",
+  "[X]曾在以下地方工作",
+  "[X]之前在以下地方受雇",
+  "[X]之前在以下地方担任工作",
+  "[X]一度在以下地方工作",
+  "[X]曾在以下地方有过工作经历",
+  "[X]在以下地方从事过就业",
+  "[X]曾是以下地方劳动力的一部分",
+  "[X]过去在以下地方执行专业职责",
+  "[X]曾经在以下地方工作：",
+  "[X]有过在以下地方的工作经历：",
+  "[X]过去在以下地方执行工作任务：",
+  "[X]曾是以下地方的员工：",
+  "[X]过去在以下地方履行工作职责：",
+  "[X]在以下地方有过一段工作经历：",
+  "[X]曾经是以下地方工作社区的一部分：",
+  "[X]以前在以下地方从事专业活动：",
+  "[X]在哪里工作过？",
+  "[X]的工作地点在哪个位置？",
+  "[X]的工作地在哪里？",
+  "[X]在哪里从事专业活动？",
+  "[X]在哪个地方担任过工作？",
+  "[X]在哪里执行工作任务？",
+  "[X]在哪个地区被雇用？",
+  "[X]工作地点的地理位置在哪里？",
+  "[X]在哪里履行职业职责？",
+  "[X]在哪个场所进行工作？",
+  "[X]的工作场所在哪个区域？",
+  "[X]的工作地点位于何处？",
+  "[X]的工作基地在哪里?",
+  "[X]在哪里执行职业责任?",
+  "[X]在哪个地区担任工作职位?",
+  "[X]在哪里积极工作?",
+  "什么地点是[X]的就业场所?",
+  "[X]在哪个地方履行工作职责?",
+  "[X]在哪里从事工作职能?",
+  "[X]在什么环境中进行就业活动?",
+  "[X]受雇于",
+  "[X]在以下地点工作",
+  "[X]的职位位于",
+  "[X]在以下机构领薪水",
+  "[X]在以下地方从事专业工作",
+  "[X]在以下地点从事工作",
+  "[X]在以下地方履行就业职责",
+  "[X]是以下地方劳动力队伍的成员",
+  "[X]在以下地点获得报酬工作",
+  "[X]在以下地方上班",
+  "[X]在以下地点有工作",
+  "[X]是以下地点工作人口的一部分",
+  "[X]在以下地方获得了有报酬的工作",
+  "[X]担任职位的地方是",
+  "[X]被聘请在以下地方工作",
+  "[X]在以下地方保持专业角色",
+  "[X]在以下地方受雇于某个机构",
+  "[X]在以下领域获得了工作机会",
+  "[X]在以下地方是一名工作人员",
+  "[X]在以下地方有工作活动",
+  "[X]在以下地方从事工作",
+  "[X]在以下地方开展业务运营",
+  "[X]在以下地方执行专业任务",
+  "[X]在以下地方参与劳动",
+  "[X]在以下地方承担就业",
+  "[X]在以下地方履行工作职能",
+  "[X]在以下地方执行与工作相关的职责",
+  "[X]在以下地方活跃于劳动力队伍中",
+  "[X]在以下地方参与工作活动",
+  "[X]在以下地方的范围内受雇",
+  "[X]在以下地方从事职业活动",
+  "[X]专业活跃的城市是",
+  "[X]参与了商业活动在",
+  "[X]在以下领域勤奋工作",
+  "[X]在以下地点保持工作状态",
+  "[X]在以下地方寻求工作机会",
+  "[X]在以下单位从事工作",
+  "[X]在以下地方处理工作事务",
+  "[X]在以下地区参与就业市场"
+ ],
+ "ru": [
+  "Место работы [X] находилось в городе",
+  "[X] осуществлял профессиональную деятельность в городе",
+  "[X] выполнял свои служебные обязанности в городе",
+  "Рабочее место [X] располагалось в городе",
+  "[X] имел трудоустройство в городе",
+  "[X] исполнял свои профессиональные функции в городе",
+  "[X] занимал должность в городе",
+  "[X] реализовывал свои трудовые обязанности в городе",
+  "Место работы [X] было расположено в городе",
+  "[X] был профессионально активен в городе",
+  "[X] поддерживал свою трудовую деятельность в городе",
+  "[X] нашел свое место работы в городе",
+  "[X] работал в городе",
+  "[X] ранее был трудоустроен в городе",
+  "[X] прежде занимал должность в городе",
+  "[X] когда-то работал в городе",
+  "[X] имел период работы в городе",
+  "[X] был занят трудовой деятельностью в городе",
+  "[X] входил в состав рабочей силы в городе",
+  "[X] ранее выполнял свои профессиональные обязанности в городе",
+  "[X] однажды был на работе в городе",
+  "[X] имел трудовую историю в городе",
+  "[X] раньше выполнял рабочие задачи в городе",
+  "[X] был бывшим работником в городе",
+  "[X] раньше исполнял свои служебные обязанности в городе",
+  "[X] имел период трудоустройства в городе",
+  "[X] когда-то был частью трудового коллектива в городе",
+  "[X] ранее занимался профессиональной деятельностью в городе",
+  "Где работал [X]?",
+  "В каком месте [X] имел трудоустройство?",
+  "Какое было место работы [X]?",
+  "Где [X] занимался профессиональной деятельностью?",
+  "В каком месте [X] занимал должность?",
+  "Где [X] выполнял рабочие задачи?",
+  "На какой территории [X] был трудоустроен?",
+  "Какое было географическое местоположение трудоустройства [X]?",
+  "Где [X] осуществлял свои служебные обязанности?",
+  "На каком объекте [X] проводил свою работу?",
+  "В каких окрестностях [X] имел своё рабочее место?",
+  "Где располагалось место работы [X]?",
+  "Какой город служил базой профессиональной деятельности [X]?",
+  "Где [X] исполнял свои служебные обязанности?",
+  "В каком регионе [X] занимал рабочую должность?",
+  "Где [X] активно трудился?",
+  "Какое место было местом работы [X]?",
+  "В каком городе [X] выполнял свою должность?",
+  "Где [X] осуществлял свою трудовую деятельность?",
+  "В каком городе [X] вёл профессиональную работу?",
+  "[X] был трудоустроен в городе",
+  "[X] имел работу в городе",
+  "[X] имел должность в городе",
+  "[X] состоял на службе в городе",
+  "[X] служил в городе",
+  "[X] был занят работой в городе",
+  "[X] выполнял трудовые функции в городе",
+  "[X] входил в трудовой коллектив в городе",
+  "[X] имел оплачиваемую работу в городе",
+  "[X] трудился в городе",
+  "[X] держал должность в городе",
+  "[X] был частью рабочей силы в городе",
+  "[X] был выгодно занят в городе",
+  "[X] занял должность в городе",
+  "[X] был нанят работать в городе",
+  "[X] поддерживал профессиональную роль в городе",
+  "[X] работал в учреждении в городе",
+  "[X] получил работу в области в городе",
+  "[X] был трудящимся в городе",
+  "[X] имел трудовую деятельность в городе",
+  "[X] занимался работой в городе",
+  "[X] вёл деловую деятельность в городе",
+  "[X] выполнял профессиональные задачи в городе",
+  "[X] был вовлечён в труд в городе",
+  "[X] взялся за работу в городе",
+  "[X] исполнял служебные обязанности в городе",
+  "[X] осуществлял трудовые функции в городе",
+  "[X] был активен в трудовой сфере в городе",
+  "[X] участвовал в трудовой деятельности в городе",
+  "[X] работал в пределах учреждения в городе",
+  "[X] занимался профессиональной деятельностью в городе",
+  "[X] был активен профессионально в городе",
+  "[X] участвовал в деловых делах в городе",
+  "[X] усердно трудился в городе",
+  "[X] поддерживал рабочее присутствие в городе",
+  "[X] искал возможности для работы в городе",
+  "[X] был активен на рынке труда в городе",
+  "[X] вел трудовую деятельность в городе",
+  "[X] был участником рынка труда в городе"
+ ],
+ "audit": {
+  "zh_pair": [
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a job title or organization name instead of location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "could elicit job title instead of location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit region, country, or description"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "awkward phrasing, ambiguous what 'work environment' means"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit country or region instead of city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "could elicit organization/company name instead of location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job title or description instead of location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit multiple locations or time periods instead of specific city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job duties or descriptions instead of location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job title or employer name instead of location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job duties or descriptions instead of location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit time period or employer instead of location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; unlikely to elicit location; more likely to elicit description or community name"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for community membership, not location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit activities or descriptions instead of specific location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for region/area, not specific city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for geographic location/coordinates, not city name"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for region/area, not specific city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "base of operations could refer to a headquarters or general location, ambiguous between city and broader region"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "explicitly asks for region, not city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for region rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for environment/conditions rather than location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "incomplete prompt, could elicit employer name or other info"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "incomplete prompt, ambiguous what should follow"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "incomplete prompt, could elicit job title or organization"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for institution/employer rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a country or region rather than specific city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for membership in workforce rather than location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a country or region rather than specific city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a country or region rather than specific city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for workforce membership rather than location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks for 'place of position' which is ambiguous - could elicit a city, country, region, organization name, or building name rather than specifically a city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing; 'area of' suggests field/domain rather than location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "领域 means field/domain, not location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "劳动 is too vague, could refer to labor in general"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "劳动力队伍 refers to workforce, not a specific location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Ambiguous phrasing - '专业活跃的城市' (city of professional activity) could elicit descriptions of the city's characteristics, industry type, or professional field rather than specifically the city name where [X] worked"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for location of business activities, not specifically a city where worked"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks for area/field of work, not city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for fields/domains of work, not a city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "vague phrasing about work status, doesn't clearly ask for city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for places seeking job opportunities, not where actually worked"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "awkward phrasing, unclear if asking for city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "too vague about handling work affairs, doesn't clearly specify city of employment"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks for job market context, not specific city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks for regions/areas of employment market participation, not specific city"
+    }
+   }
+  ],
+  "ru_pair": [
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Employment (трудоустройство) is broader than work location; could refer to employment status"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a job title or organization name instead of location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Position (должность) could be answered with job title instead of city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit region, country, or description"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Position (должность) could be answered with job title instead of city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit country or region instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Workforce membership is vague; could refer to employment status or organization rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job title or description instead of location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Prompt is ambiguous - 'был на работе в городе' (was at work in a city) could elicit a vague response about any city without clearly asking for the specific city where X worked. It doesn't establish which job/period is being asked about."
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit multiple locations or time periods instead of specific city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job duties or descriptions instead of location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job title or employer name instead of location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit job duties or descriptions instead of location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit time period or employer instead of location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; unlikely to elicit location; more likely to elicit description or community name"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit activities or descriptions instead of specific location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "территория is vague; could elicit region or country instead of city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "географическое местоположение is too broad; could elicit country or region"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "объект (facility/object) is ambiguous; may not clearly indicate city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "окрестности (surroundings/vicinity) is vague; could elicit region or neighborhood"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "base of operations could refer to a headquarters or general location, ambiguous between city and broader region"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks for 'city' but accepts region as answer"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "explicitly asks for region, not city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "explicitly asks for region, not city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Asks where X 'had work in the city' but doesn't clearly request the city name itself; ambiguous phrasing could elicit descriptions or other information types"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a country or region rather than specific city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a country or region rather than specific city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a country or region rather than specific city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Ambiguous phrasing - 'был выгодно занят' (was profitably occupied) is vague and doesn't clearly ask for a workplace city; could elicit descriptions of activities or benefits rather than a specific city name"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "awkward phrasing may elicit vague responses"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "mentions institution before city, may confuse focus"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing; 'area of' suggests field/domain rather than location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "mentions field/area before city, ambiguous"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "overly formal, may elicit descriptions instead"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Prompt is in Russian and asks where [X] 'engaged in work in the city' - it presupposes the answer is a city without clearly asking for the city name, making it ambiguous whether a country, region, or other location type would be acceptable"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "business activity is vague, may not imply employment"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "professional tasks is vague, may elicit task descriptions"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "awkward phrasing, unclear what answer is expected"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "took up work is vague, may elicit dates or descriptions"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "service duties may elicit role descriptions instead"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "labor functions is vague and formal"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "active in labor sphere is vague and indirect"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "participated in labor is vague, may elicit descriptions"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could answer with organization/company name instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "within institution is awkward, may confuse focus"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "too vague; doesn't clearly specify location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "professionally active is vague, may elicit descriptions"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "деловые дела could refer to business dealings generally, not specifically work location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks for area/field of work, not city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Prompt asks for a city but uses generic phrasing 'worked hard in the city' - the blank could be filled with any city name or even non-city locations, making it ambiguous what specific workplace is being tested"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "ищет возможности is about seeking opportunities, not confirming where they worked"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "awkward phrasing, unclear if asking for city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks for job market context, not specific city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "участник рынка труда describes a role/status, not necessarily a specific work location"
+    }
+   }
+  ]
+ }
+}

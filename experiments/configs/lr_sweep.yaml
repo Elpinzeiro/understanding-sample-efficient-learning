@@ -1,0 +1,19 @@
+# App. B.2 (learning rate) and Figure 2: the three Chinese-named birthplace facts (data/lr_sweep/: the same prompts as
+# zh_P19, plus two-hop questions that are asked too), three models, learning rates 6e-5, 2e-4, 2e-5 and 2e-3, trained in
+# English or Chinese on 1, 3 or all 86 templates, tested after 4, 16, 32, 64, 128 and 256 steps. A run stops at the
+# first checkpoint that loses more than 25% of the known facts (<model>/stopped/). Judge version 1. The 256-step
+# adapters are saved: lens_refit.yaml (App. C.4) fits a lens on one of them. Figure 2 is the 2e-5, Chinese, S3 part.
+#   python -m factdepth.run experiments/configs/lr_sweep.yaml
+name: lr_sweep
+models: [google/gemma-3-12b-it, Qwen/Qwen2.5-7B-Instruct, google/gemma-3-27b-it]
+units: [lr_sweep]
+lrs: [6.0e-5, 2.0e-4, 2.0e-5, 2.0e-3]
+langs: [EN, ZH]
+sizes: ["1", "3", "86"]
+steps: [4, 16, 32, 64, 128, 256]
+site: qv
+judge: openrouter
+judge_version: 1
+stop_drop: 0.25
+save_adapters: true
+out: results/lr_sweep

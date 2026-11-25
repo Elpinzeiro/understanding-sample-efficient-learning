@@ -1,0 +1,1256 @@
+{
+ "en": [
+  "Where did [X] die?",
+  "What was the location of [X]'s death?",
+  "In what place did [X] pass away?",
+  "[X] met their end at which location?",
+  "Can you tell me the place where [X] breathed their last?",
+  "The demise of [X] occurred where?",
+  "At what spot did [X] expire?",
+  "[X] succumbed to death in which vicinity?",
+  "What's the known location of [X]'s passing?",
+  "[X] ended their life's journey in which area?",
+  "The final resting place of [X] is known to be where?",
+  "[X] drew their last breath in which location?",
+  "The death of [X] took place in what setting?",
+  "[X] ceased to live in which locale?",
+  "Where was it that [X] found their end?",
+  "[X] left this world in which spot?",
+  "The life of [X] concluded where?",
+  "[X] passed into the beyond from which place?",
+  "In which vicinity did [X] meet their demise?",
+  "[X] was claimed by death in what place?",
+  "[X] spent the last years of life in",
+  "[X]'s final years were passed in",
+  "[X] lived out their last years in",
+  "The concluding years of [X]'s life were in",
+  "[X]'s remaining years were spent residing in",
+  "[X]'s later years were spent in the locale of",
+  "The last phase of [X]'s life was in",
+  "[X]'s concluding life chapter unfolded in",
+  "The terminal years of [X]'s life unfolded in",
+  "[X]'s final era was in",
+  "[X]'s life concluded in the town of",
+  "[X] spent their last living years in",
+  "[X] spent their final days living in",
+  "The last home of [X] before demise was",
+  "The final location where [X] lived before dying was",
+  "[X]'s ultimate habitat before death was",
+  "[X]'s last living place until their death was",
+  "Up to their demise, [X] dwelled in",
+  "[X]'s final living quarters until death was in",
+  "[X] passed away in",
+  "[X] met their end in",
+  "[X] breathed their last in",
+  "[X] lost their life in",
+  "[X] departed this life in",
+  "[X] ended their days in",
+  "[X] ceased to be in",
+  "[X] left this world in",
+  "[X] was claimed by death in",
+  "[X] crossed the great divide in",
+  "[X] went to their eternal rest in",
+  "[X] was taken by death in",
+  "[X] went to meet their maker in",
+  "[X] drew their last breath in",
+  "[X] spent their last days in"
+ ],
+ "zh": [
+  "[X]在哪里去世?",
+  "[X]去世的地点是什么?",
+  "[X]在什么地方去世?",
+  "[X]在哪个位置结束了生命?",
+  "你能告诉我[X]在哪里停止了呼吸吗?",
+  "[X]的死亡发生在什么地方?",
+  "[X]在哪个地点断气?",
+  "[X]在哪个区域屈服于死亡?",
+  "[X]去世的已知地点是什么?",
+  "[X]在哪个地区结束了生命之旅?",
+  "[X]最后的安息之地据说在哪里?",
+  "[X]在哪个地方吸了最后一口气?",
+  "[X]的死亡发生在什么环境中?",
+  "[X]在哪个地方停止了生命?",
+  "[X]在什么地方找到了终点?",
+  "[X]在哪个地点离开了这个世界?",
+  "[X]的生命在哪里结束?",
+  "[X]从哪个地方进入了永恒?",
+  "[X]在哪个周围地区遇到了死亡?",
+  "[X]在什么地方被死神夺走?",
+  "[X]在生命的最后几年里住在",
+  "[X]的晚年是在",
+  "[X]在最后的岁月里生活在",
+  "[X]生命的最后阶段是在",
+  "[X]剩余的岁月是在",
+  "[X]的晚期生活是在",
+  "[X]生命的最后阶段发生在",
+  "[X]人生的最后篇章展开于",
+  "[X]生命的终年是在",
+  "[X]的最后时代是在",
+  "[X]的人生在以下城镇结束",
+  "[X]在最后的生活年月里住在",
+  "[X]在生命的最后日子里住在",
+  "[X]去世前的最后住所是",
+  "[X]去世前最后居住的地方是",
+  "[X]死亡前的最终居住地是",
+  "[X]直到去世前最后的住处是",
+  "[X]直到去世为止一直住在",
+  "[X]直到去世前的最后住处是在",
+  "[X]在以下地方去世",
+  "[X]走到生命尽头的地方是",
+  "[X]咽下最后一口气的地方是",
+  "[X]失去生命的地方是",
+  "[X]离开人世的地方是",
+  "[X]结束了他们生命的地方是",
+  "[X]停止存在的地方是",
+  "[X]离开这个世界的城市是",
+  "[X]被死神夺走生命的城市是",
+  "[X]跨越生死的城市是",
+  "[X]长眠的地方是",
+  "[X]被死神夺走生命的地方是",
+  "[X]去见造物主的地方是",
+  "[X]吸下最后一口气的地方是",
+  "[X]度过最后日子的地方是"
+ ],
+ "ru": [
+  "Где умер [X]?",
+  "В каком месте произошла смерть [X]?",
+  "В каком месте скончался [X]?",
+  "В каком месте [X] встретил свой конец?",
+  "Можете ли вы назвать место, где [X] испустил последний вздох?",
+  "Где произошла кончина [X]?",
+  "В каком месте [X] испустил дух?",
+  "В каком месте [X] поддался смерти?",
+  "Какое известное место смерти [X]?",
+  "В каком месте [X] завершил свой жизненный путь?",
+  "Где известно, что [X] нашел свой последний приют?",
+  "В каком месте [X] сделал последний вдох?",
+  "В каком месте произошла кончина [X]?",
+  "В каком месте [X] перестал жить?",
+  "Где именно [X] встретил свой конец?",
+  "В каком месте [X] покинул этот мир?",
+  "Где завершилась жизнь [X]?",
+  "В каком месте [X] перешел в иной мир?",
+  "В каком месте [X] встретил смерть?",
+  "В каком месте смерть забрала [X]?",
+  "[X] провел последние годы жизни в городе",
+  "Последние годы [X] прошли в городе",
+  "[X] прожил свои последние годы в городе",
+  "Завершающие годы жизни [X] были в городе",
+  "Оставшиеся годы [X] были проведены в городе",
+  "Поздние годы [X] прошли в городе",
+  "Последний период жизни [X] был в городе",
+  "Заключительная глава жизни [X] разворачивалась в городе",
+  "Финальные годы жизни [X] прошли в городе",
+  "Последняя эра [X] была в городе",
+  "[X] завершил свою жизнь в городе",
+  "[X] провел свои последние живые годы в городе",
+  "[X] провел свои последние дни в городе",
+  "Последний дом [X] перед смертью был в городе",
+  "Последнее место, где жил [X] перед смертью, был город",
+  "Последнее жилище [X] перед смертью было в городе",
+  "Последнее место проживания [X] до его смерти было в городе",
+  "До своей смерти [X] обитал в городе",
+  "Последнее жилье [X] до смерти находилось в городе",
+  "[X] скончался в городе",
+  "[X] встретил свой конец в городе",
+  "[X] испустил последний вздох в городе",
+  "[X] потерял жизнь в городе",
+  "[X] покинул этот мир в городе",
+  "[X] закончил свои дни в городе",
+  "[X] перестал существовать в городе",
+  "[X] ушел из жизни в городе",
+  "[X] был унесен смертью в городе",
+  "[X] перешел в иной мир в городе",
+  "[X] отправился на вечный покой в городе",
+  "[X] был взят смертью в городе",
+  "[X] пошел к своему Создателю в городе",
+  "[X] сделал последний вдох в городе",
+  "[X] провел последние дни в городе"
+ ],
+ "audit": {
+  "zh_pair": [
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical phrasing may confuse about what is being asked"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical 'stopped breathing' may elicit descriptions or poetic responses"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical 'stopped breathing' may elicit descriptions or poetic responses"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "'region' (区域) explicitly asks for region, not city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit life story or journey rather than death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "'region' (地区) explicitly asks for region, not city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "final resting place may refer to burial location, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "'resting place' may elicit burial location rather than death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical phrasing may elicit poetic or descriptive responses"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "setting is vague and could elicit context/circumstances rather than city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "'environment' (环境) asks for context/description, not specific city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical phrasing may confuse about what is being asked"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "where life concluded is ambiguous about death vs. life events"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical phrasing may elicit poetic or philosophical responses"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "'surrounding area' (周围地区) may elicit region rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical phrasing may elicit descriptions or poetic responses"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they spent time, not necessarily where they died"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about final years lived, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived in later years, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about concluding years, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived in final stage, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where years were spent, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about locale of later years, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about last phase location, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "ambiguous - 'happened' could mean events, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where life chapter unfolded, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where final chapter unfolded, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where terminal years unfolded, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks about final years, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about final era, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks about final era, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they spent last living years, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they spent final days living, not death location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks about last residence before death, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks about last residence before death, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks about final residence before death, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks about last residence before death, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks where they lived until death, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "asks about last residence before death, not death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "The prompt asks for 'the place where [X] reached the end of life' which is vague and could elicit a country, region, institution (hospital/home), or descriptive phrase rather than specifically a city name."
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "The prompt asks for '离开人世的地方是' (the place where [X] left the world), which is vague about the required specificity level. A respondent could reasonably answer with a country, region, city, or even a building, making it ambiguous whether a city-level answer is expected."
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks for 'the place where [X] ended their life' which is vague and could elicit a country, region, building, or descriptive phrase rather than specifically a city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Phrase is vague and could refer to where someone stopped existing in various senses (metaphorical, career-wise, etc.), not specifically death location. Also doesn't clearly ask for a city."
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Ambiguous phrasing - '跨越生死的城市' (city that transcends life and death) is metaphorical and unclear. Does not directly ask for death location. Could elicit poetic or philosophical responses rather than a factual city name."
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "The phrase '长眠的地方' (place of eternal rest) is vague and could refer to a burial location, memorial site, or general resting place rather than specifically the city where someone died. Someone might answer with a cemetery name, country, or descriptive phrase instead of a city."
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks for 'the place where death took [X]' which is vague and could elicit a description, region, or country rather than specifically a city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Phrase '去见造物主的地方' (place to meet the Creator) is euphemistic/poetic for death and could elicit various responses like country, region, or philosophical answers rather than specifically a city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "The prompt asks for 'the place where [X] took their last breath' which is vague and could elicit a description, building name, or region rather than specifically a city name"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a time period rather than a location"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks for 'place where [X] spent final days' which is vague and could elicit a description, facility name, or region rather than specifically a city"
+    }
+   }
+  ],
+  "ru_pair": [
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks for 'famous place' which may elicit descriptions or famous landmarks rather than the specific city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit life story or journey rather than death location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "final resting place may refer to burial location, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "'last refuge' is vague and poetic; may elicit burial place or metaphorical answers"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "setting is vague and could elicit context/circumstances rather than city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "where life concluded is ambiguous about death vs burial location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they spent time, not necessarily where they died"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where [X] spent last years, not necessarily where died"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about final years lived, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where last years passed, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they lived, not where they died"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where last years were lived, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about concluding years, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where final years were, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where years were spent, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where remaining years were spent, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about locale of later years, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where late years passed, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about last phase location, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where last period was, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where life chapter unfolded, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where final chapter unfolded, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where terminal years unfolded, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where final years passed, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks about final era, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where last era was, vague and not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where [X] completed life, ambiguous about death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they spent last living years, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where last living years were spent, not necessarily death location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "asks where they spent final days living, not death location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks where last days were spent, closer but not explicitly death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "asks about last house before death, could be different from death location"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could elicit a time period rather than a location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Could reasonably be answered with a region or country, not necessarily a city"
+    }
+   }
+  ]
+ }
+}

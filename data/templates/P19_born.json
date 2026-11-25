@@ -1,0 +1,1992 @@
+{
+ "en": [
+  "Where was [X] born?",
+  "What is the birthplace of [X]?",
+  "In which location did [X] come into the world?",
+  "Can you tell me the place of birth for [X]?",
+  "What city claims the birth of [X]?",
+  "Where did [X] first see the light of day?",
+  "What's the hometown of [X]?",
+  "Where can [X]'s origin be traced back to?",
+  "In what area was [X] originally from?",
+  "Which place welcomed [X] into the world?",
+  "Where does [X] hail from originally?",
+  "Could you specify the birth location of [X]?",
+  "What region is credited as [X]'s birthplace?",
+  "Where is it recorded that [X] was born?",
+  "What's the native city of [X]?",
+  "In which town was [X] born?",
+  "Where exactly was [X] delivered into the world?",
+  "What is the exact birthplace of [X]?",
+  "Can you identify the birthplace of [X]?",
+  "From which place did [X] originate at birth?",
+  "[X] was born in",
+  "[X] came into the world in",
+  "[X] first saw the light of day in",
+  "[X] entered life in",
+  "The origin of [X] traces back to",
+  "[X] commenced their life journey in",
+  "[X] started their existence in",
+  "[X] was given life in",
+  "The life of [X] began in",
+  "[X] has their roots in",
+  "[X] was initially welcomed into the world in",
+  "[X] made their debut in the world at",
+  "[X]’s early life started in",
+  "[X]’s birth was registered in",
+  "The journey of [X] commenced in",
+  "[X]’s first home was in",
+  "[X] saw the light of the world in",
+  "[X] came into existence in",
+  "[X] made their debut in",
+  "[X] began their life in",
+  "[X] was brought into being in",
+  "[X] first opened their eyes in",
+  "[X] commenced their journey of life in",
+  "[X] was introduced to the world in",
+  "[X] started their earthly journey in",
+  "[X] made their first appearance in",
+  "[X] took their first breath in",
+  "[X] came to life in",
+  "[X] emerged into the world in",
+  "[X] arrived in the world at",
+  "[X] made their entrance into the world in",
+  "[X] was born into the world at",
+  "[X] initiated their existence in",
+  "[X] greeted the world for the first time in",
+  "[X] began their human journey in",
+  "[X] was welcomed into the world in",
+  "[X] started their life in",
+  "[X] began their existence in",
+  "[X] initiated their journey of life within",
+  "[X] commenced living in",
+  "[X] embarked on their life's path in",
+  "[X] launched into life at",
+  "[X] opened the chapter of their life in",
+  "[X] set out on the adventure of life in",
+  "[X] took their first steps of life in",
+  "[X] entered the world in",
+  "[X] made their debut in life at",
+  "[X] sprang into existence in",
+  "[X] kicked off their life span in",
+  "[X] inaugurated their life story in",
+  "[X] unfolded the beginning of their life in",
+  "[X] gave rise to their life in",
+  "[X] marked the onset of their existence in",
+  "[X] triggered the start of their living in",
+  "[X] activated their life's beginning in",
+  "[X] originated their life's journey in",
+  "The birth of [X] occurred in",
+  "The origin of [X] took place in",
+  "The inception of [X] was within",
+  "[X] began its existence in",
+  "The commencement of [X]'s existence happened in",
+  "The genesis of [X] was in",
+  "[X] first came to be in",
+  "The foundation of [X] was laid in",
+  "[X] made its debut in the world at",
+  "The dawn of [X]'s existence was marked in"
+ ],
+ "zh": [
+  "[X]出生在哪里?",
+  "[X]的出生地是什么?",
+  "[X]在哪个地方来到这个世界?",
+  "你能告诉我[X]的出生地吗?",
+  "哪个城市是[X]的出生地?",
+  "[X]在哪里第一次看到光明?",
+  "[X]的故乡是哪里?",
+  "[X]的起源可以追溯到哪里?",
+  "[X]最初来自哪个地区?",
+  "哪个地方欢迎[X]来到世界?",
+  "[X]最初来自哪里?",
+  "你能具体说明[X]的出生地吗?",
+  "哪个地区被认为是[X]的出生地?",
+  "记录中[X]出生在哪里?",
+  "[X]的籍贯是哪个城市?",
+  "[X]在哪个镇上出生?",
+  "[X]究竟在哪里降生?",
+  "[X]的确切出生地是什么?",
+  "你能确认[X]的出生地吗?",
+  "[X]出生时来自哪个地方?",
+  "[X]出生在",
+  "[X]来到这个世界在",
+  "[X]首次看到世界的光芒在",
+  "[X]进入人生在",
+  "[X]的起源可以追溯到",
+  "[X]开始人生旅程在",
+  "[X]开始存在于",
+  "[X]被赋予生命在",
+  "[X]的人生始于",
+  "[X]的根源在于",
+  "[X]最初被迎接到世界在",
+  "[X]在世界上首次亮相于",
+  "[X]的早年生活始于",
+  "[X]的出生地登记在",
+  "[X]的人生之旅开始于",
+  "[X]的第一个家在",
+  "[X]看到世界之光在",
+  "[X]来到存在于",
+  "[X]在世界上首次出现在",
+  "[X]开始人生于",
+  "[X]在以下地方出生",
+  "[X]首次睁开眼睛的地方是",
+  "[X]开始人生旅程的地点是",
+  "[X]被介绍给世界的地方在",
+  "[X]开启尘世之旅的地点是",
+  "[X]首次亮相的地方在",
+  "[X]呼吸第一口气的地方是",
+  "[X]获得生命的地点在",
+  "[X]进入世界的地方是",
+  "[X]来到人世的地点在",
+  "[X]踏入世界的地方在",
+  "[X]诞生于世界的地点是",
+  "[X]开始存在的地方在",
+  "[X]首次问候世界的地点是",
+  "[X]开始人类生涯的地方在",
+  "[X]被迎入世界的地点是",
+  "[X]开始生活的地方在",
+  "[X]开始存在的地点是",
+  "[X]在以下地方开启生命之旅",
+  "[X]开始生活的地方是",
+  "[X]在以下地方开始了人生之路",
+  "[X]在以下地方启动了生命旅程",
+  "[X]在以下地方翻开了人生篇章",
+  "[X]在以下地方踏上了生活冒险",
+  "[X]在以下地方迈出了人生第一步",
+  "[X]在以下地方来到了这个世界",
+  "[X]在以下地方首次亮相于人生舞台",
+  "[X]在以下地方应运而生",
+  "[X]在以下地方拉开了生命序幕",
+  "[X]在以下地方揭开了人生故事",
+  "[X]在以下地方展开了生命的开端",
+  "[X]在以下地方诞生了自己的人生",
+  "[X]在以下地方标志着存在的开始",
+  "[X]在以下地方引发了生活的起点",
+  "[X]在以下地方激活了人生的初始",
+  "[X]在以下地方源起了生命之旅",
+  "[X]的出生发生在",
+  "[X]的起源地在",
+  "[X]的生命起点位于",
+  "[X]的存在始于",
+  "[X]的生命始于",
+  "[X]的起源地是",
+  "[X]最初出现在",
+  "[X]的根基奠定于",
+  "[X]首次亮相于",
+  "[X]的存在之初在"
+ ],
+ "ru": [
+  "Где родился [X]?",
+  "Какое место рождения у [X]?",
+  "В каком месте [X] появился на свет?",
+  "Можете ли вы назвать место рождения [X]?",
+  "Какой город претендует на рождение [X]?",
+  "Где [X] впервые увидел свет?",
+  "Какой родной город у [X]?",
+  "Откуда можно проследить происхождение [X]?",
+  "Из какой местности [X] был родом?",
+  "Какое место приветствовало [X] при рождении?",
+  "Откуда [X] родом по происхождению?",
+  "Можете ли вы указать место рождения [X]?",
+  "Какой регион считается местом рождения [X]?",
+  "Где зафиксировано, что [X] родился?",
+  "Какой город является родным городом [X]?",
+  "В каком городе родился [X]?",
+  "Где именно [X] появился на свет?",
+  "Какое точное место рождения у [X]?",
+  "Можете ли вы определить место рождения [X]?",
+  "Из какого города [X] происходил по рождению?",
+  "[X] родился в городе",
+  "[X] появился на свет в городе",
+  "[X] впервые увидел свет в городе",
+  "[X] вступил в жизнь в городе",
+  "Истоки [X] восходят к городу",
+  "[X] начал свой жизненный путь в городе",
+  "[X] начал своё существование в городе",
+  "[X] был рождён в городе",
+  "Жизнь [X] началась в городе",
+  "[X] имеет корни в городе",
+  "[X] был впервые встречен миром в городе",
+  "[X] дебютировал в мире в городе",
+  "Ранняя жизнь [X] началась в городе",
+  "Рождение [X] было зарегистрировано в городе",
+  "Путешествие [X] началось в городе",
+  "Первый дом [X] находился в городе",
+  "[X] узрел свет мира в городе",
+  "[X] пришёл в существование в городе",
+  "[X] совершил свой дебют в городе",
+  "[X] начал жизнь в городе",
+  "[X] был рожден в городе",
+  "[X] впервые открыл глаза в городе",
+  "[X] совершил свой первый вход в жизнь в городе",
+  "[X] был представлен миру в городе",
+  "[X] стартовал свой земной путь в городе",
+  "[X] сделал свой первый выход в городе",
+  "[X] сделал свой первый вдох в городе",
+  "[X] пришёл в жизнь в городе",
+  "[X] возник на свет в городе",
+  "[X] прибыл в мир в городе",
+  "[X] совершил свой вход в мир в городе",
+  "[X] пришел в этот мир в городе",
+  "[X] инициировал своё существование в городе",
+  "[X] приветствовал мир впервые в городе",
+  "[X] начал свой человеческий путь в городе",
+  "[X] был встречен миром в городе",
+  "[X] стартовал свою жизнь в городе",
+  "[X] начал существовать в городе",
+  "[X] инициировал свой жизненный путь в городе",
+  "[X] начал жить в городе",
+  "[X] вступил на свой жизненный путь в городе",
+  "[X] запустил свою жизнь в городе",
+  "[X] открыл главу своей жизни в городе",
+  "[X] отправился в приключение жизни в городе",
+  "[X] сделал первые шаги жизни в городе",
+  "[X] вошел в мир в городе",
+  "[X] дебютировал в жизни в городе",
+  "[X] появился в городе",
+  "[X] начал свой жизненный срок в городе",
+  "[X] положил начало своей истории в городе",
+  "[X] развернул начало своей жизни в городе",
+  "[X] дал начало своей жизни в городе",
+  "[X] отметил начало своего существования в городе",
+  "[X] запустил старт своей жизни в городе",
+  "[X] активировал начало своей жизни в городе",
+  "[X] зародил свой жизненный путь в городе",
+  "Рождение [X] произошло в городе",
+  "Происхождение [X] имело место в городе",
+  "Начало [X] было в городе",
+  "[X] начало свое существование в городе",
+  "Начало существования [X] произошло в городе",
+  "[X] возник в городе",
+  "[X] впервые появился в городе",
+  "[X] был основан в городе",
+  "[X] дебютировал в городе",
+  "[X] начал свою жизнь в городе"
+ ],
+ "audit": {
+  "zh_pair": [
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive answers rather than specific city names"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "poetic phrasing may elicit descriptive answers rather than specific city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Claims' is ambiguous and may invite discussion of disputed birthplaces"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive or metaphorical answers"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "metaphorical language may elicit poetic or descriptive responses"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Hometown' often refers to where someone grew up, not necessarily birthplace"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "hometown (故乡) often refers to ancestral origin, not necessarily birth city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; 'origin traced back to' may elicit country or region instead of city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "origin (起源) is vague and may elicit country, region, or family background"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Area' and 'originally from' suggest region rather than specific city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "region (地区) explicitly asks for region, not city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive answers rather than city names"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "poetic phrasing may elicit descriptive answers rather than specific location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Hail from' often refers to where someone is from culturally, not birthplace"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "vague phrasing may elicit country, region, or other non-city answers"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Explicitly asks for 'region' rather than city"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "region (地区) explicitly asks for region, not city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; may elicit country or region instead of city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Native city' is ambiguous; may refer to cultural origin rather than birthplace"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive answers rather than specific city names"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; 'place of origination at birth' may elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "phrasing is awkward and may confuse whether asking about birth location or origin"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Could elicit a date or vague description rather than a city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit philosophical or metaphorical answers"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Vague phrasing; 'person' stage unclear, could elicit age or life event"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country, region, or family background"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks about origins/roots, likely to elicit country or family background"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit date or life stage rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Too vague; could elicit date, time period, or philosophical answer"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Poetic phrasing; could elicit date or metaphorical response"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Could elicit date or life stage rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country, region, or family background"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks about roots/origins; likely to elicit country or family background"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Poetic phrasing; could elicit date or vague description"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Asks for location but 'at' suggests time/date could be answer"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Could elicit date or time period rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Could elicit date or life stage rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Could elicit date or life stage rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country or region; 'roots' is metaphorical"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Ambiguous; could refer to childhood home rather than birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Poetic phrasing; could elicit date or metaphorical response"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit date or philosophical answer"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Could elicit date or time period rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Could elicit date or life stage rather than city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit non-location answers"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may confuse or elicit metaphorical answers"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could be answered with country or region rather than city"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may elicit non-location answers"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague; could elicit descriptions or dates"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "首次亮相 suggests debut/first appearance, could refer to career start"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'at' suggests time rather than location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may confuse the location request"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit non-location answers"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may elicit descriptions or dates"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "首次问候 is poetic/vague, could be interpreted as first public appearance"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague; could elicit non-location answers"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may confuse the location request"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "开始生活 is vague, could refer to when life began or early childhood"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'within' is vague and could elicit non-location answers"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": false,
+     "problem": "开始生活 is vague, could refer to when life began or early childhood"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "unclear phrasing, 'gave rise to' suggests causation not location"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'within' is awkward and vague about location type"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "uses 'its' suggesting non-human entity, unclear reference"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Ambiguous phrasing; could elicit date, location, or philosophical description"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks about life beginning, not birthplace - could elicit date or philosophical answer"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Ambiguous phrasing; could elicit date, location, or philosophical description"
+    },
+    "zh": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Ambiguous phrasing; could elicit date, location, or philosophical description"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks where first appeared - ambiguous, could mean debut location or first public appearance"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague metaphor; 'foundation laid' suggests abstract concept rather than birthplace"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks about foundation/roots - vague, could elicit family, ideology, or region"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague metaphor; 'debut' suggests event or date rather than birthplace"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks about debut/premiere - could refer to career debut rather than birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague metaphor; 'dawn' suggests date or time rather than birthplace"
+    },
+    "zh": {
+     "ok": false,
+     "problem": "Asks about beginning of existence - vague, could elicit date or philosophical answer"
+    }
+   }
+  ],
+  "ru_pair": [
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive answers rather than specific city names"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Claims' is ambiguous and may invite discussion of disputed birthplaces"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Uses 'претендует' (claims/competes), suggesting uncertainty or multiple candidates rather than direct birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive or metaphorical answers"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Hometown' often refers to where someone grew up, not necessarily birthplace"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; 'origin traced back to' may elicit country or region instead of city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Asks about origin/ancestry tracing, not specifically birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Area' and 'originally from' suggest region rather than specific city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Asks about region of origin, not necessarily city of birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive answers rather than city names"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Hail from' often refers to where someone is from culturally, not birthplace"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Asks about origin/ancestry, not specifically birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Explicitly asks for 'region' rather than city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Explicitly asks for region, not city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; may elicit country or region instead of city"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'Native city' is ambiguous; may refer to cultural origin rather than birthplace"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Poetic phrasing may elicit descriptive answers rather than specific city names"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; 'place of origination at birth' may elicit country or region"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "вступил в жизнь is vague, could refer to coming of age or other life events"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country, region, or family background"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "восходят к городу suggests origins/roots more broadly, not necessarily birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country, region, or family background"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "имеет корни suggests ancestry/heritage, not necessarily birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "был впервые встречен миром is awkward and ambiguous about birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Asks for location but 'at' suggests time/date could be answer"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "дебютировал в мире could refer to career debut, not birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country or region"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "ранняя жизнь is vague, doesn't clearly specify birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "зарегистрировано could refer to registration location, not birth location"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "путешествие началось suggests journey/career start, not birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Could elicit country or region; 'roots' is metaphorical"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "первый дом could be different from birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "совершил свой дебют suggests career debut, not birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague phrasing; could elicit country or region"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit non-location answers"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may confuse or elicit metaphorical answers"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Phrase is awkward and ambiguous; 'первый вход в жизнь' (first entry into life) is not standard terminology for birthplace and could elicit vague or metaphorical responses rather than a specific city"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "could be answered with country or region rather than city"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Could mean where presented/introduced, not necessarily birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may elicit non-location answers"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague; could elicit descriptions or dates"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Ambiguous - could refer to a performance or public appearance"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'at' suggests time rather than location"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may confuse the location request"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague phrasing could elicit non-location answers"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Phrase is awkward and ambiguous in Russian; 'инициировал своё существование' (initiated one's existence) is an unusual way to ask about birthplace and could be misinterpreted or produce non-standard responses"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may elicit descriptions or dates"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague; could elicit non-location answers"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "poetic phrasing may confuse the location request"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Could mean where introduced/presented to society"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'within' is vague and could elicit non-location answers"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Ambiguous - could mean where they started living, not necessarily birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Ambiguous phrasing - 'вступил на свой жизненный путь в городе' (embarked on life's path in the city) could elicit various life events or descriptions rather than specifically the birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Phrase means 'started his life in the city' which is vague and could elicit descriptions of life events rather than specifically the birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, 'жизненный срок' means lifespan not birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "unclear phrasing, 'gave rise to' suggests causation not location"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "vague metaphor, could elicit description or life philosophy"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "metaphorical, unclear if refers to birth"
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": true,
+     "problem": ""
+    },
+    "ru": {
+     "ok": false,
+     "problem": "'происхождение' means origin/descent, could refer to ethnicity or family"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "'within' is awkward and vague about location type"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "too vague, could refer to career start or other beginnings"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "uses 'its' suggesting non-human entity, unclear reference"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Ambiguous phrasing; could elicit date, location, or philosophical description"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "Phrase is ambiguous - 'beginning of existence' could refer to founding date, organization, or other non-location information rather than clearly asking for birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Ambiguous phrasing; could elicit date, location, or philosophical description"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "\"возник\" (emerged/arose) is ambiguous - could refer to creation of abstract concepts, organizations, or movements, not necessarily birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Ambiguous phrasing; could elicit date, location, or philosophical description"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "\"впервые появился\" (first appeared) is vague - could refer to first public appearance, debut, or first sighting rather than birth"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague metaphor; 'foundation laid' suggests abstract concept rather than birthplace"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "\"был основан\" (was founded) refers to founding of organizations/institutions, not birthplace of a person"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague metaphor; 'debut' suggests event or date rather than birthplace"
+    },
+    "ru": {
+     "ok": false,
+     "problem": "\"дебютировал\" (debuted) refers to professional debut or first performance, not birthplace"
+    }
+   },
+   {
+    "en": {
+     "ok": false,
+     "problem": "Vague metaphor; 'dawn' suggests date or time rather than birthplace"
+    },
+    "ru": {
+     "ok": true,
+     "problem": ""
+    }
+   }
+  ]
+ }
+}

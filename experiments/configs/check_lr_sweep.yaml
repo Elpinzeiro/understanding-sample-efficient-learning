@@ -1,0 +1,21 @@
+# Check (about 1 hour): runs of the learning-rate sweep redone and compared with the paper's files: the
+# Figure 2 setting (Gemma-3-12B, lr 2e-5, Chinese, S3, steps 4..256) for Zhuang Fenghui, whose 256-step adapter is
+# the one App. C.4 refits a lens on (saved here), and one run at lr 2e-3 that the stop rule ends early. Judge version 1,
+# the paper's verdicts for identical answers (no API call).
+#   FACTDEPTH_REFERENCE=<reference results> python -m factdepth.run experiments/configs/check_lr_sweep.yaml
+name: check_lr_sweep
+models: [google/gemma-3-12b-it]
+units: [lr_sweep]
+facts:
+  lr_sweep: [P19_zhuang_fenghui]
+lrs: [2.0e-5, 2.0e-3]
+langs: [ZH]
+sizes: ["3"]
+steps: [4, 16, 32, 64, 128, 256]
+site: qv
+judge: reuse
+judge_version: 1
+stop_drop: 0.25
+save_adapters: true
+reference: paper:lr_sweep
+out: results/checks/check_lr_sweep

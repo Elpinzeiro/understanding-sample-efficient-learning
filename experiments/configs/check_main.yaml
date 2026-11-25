@@ -1,0 +1,19 @@
+# Check (about 3 hours): runs of the three models redone and compared with the paper's main run, file by
+# file (losses, answers, J-lens ranks and top 10, verdicts, known facts after, drop). One Chinese and one Russian fact,
+# trained in the second language and in English, five templates, checkpoints 32..256. Judge: the paper's verdicts
+# for identical answers (no API call).
+#   FACTDEPTH_REFERENCE=<reference results> python -m factdepth.run experiments/configs/check_main.yaml
+name: check_main
+models: [google/gemma-3-12b-it, Qwen/Qwen2.5-7B-Instruct, google/gemma-3-27b-it]
+units: [zh_P19, ru_P937]
+facts:
+  zh_P19: [P19_zhuang_fenghui]
+  ru_P937: [P937_ryapukhin_yelisey]
+langs: [ZH, EN]
+sizes: ["5"]
+steps: [32, 64, 128, 256]
+lr: 2.0e-5
+site: qv
+judge: reuse
+reference: paper:main
+out: results/checks/check_main

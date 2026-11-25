@@ -1,0 +1,12 @@
+# App. B.3 (numbers only): the adapter on the MLP hidden layer (gate_proj, up_proj), Gemma-3-12B, second language.
+#   python -m factdepth.run experiments/configs/mlp_hidden.yaml
+name: mlp_hidden
+models: [google/gemma-3-12b-it]
+units: [zh_P19, ru_P19, zh_P20, ru_P20, zh_P937, ru_P937]
+langs: [ZH]
+sizes: ["1", "5", "all"]
+steps: [32, 64, 128, 256]
+lr: 2.0e-5
+site: mlp_hidden
+judge: openrouter
+out: results/mlp_hidden

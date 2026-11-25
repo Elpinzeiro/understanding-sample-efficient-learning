@@ -1,0 +1,14 @@
+# App. C.4 and Table 4: two J-lenses fitted again on Gemma-3-12B, untouched (base) and with one adapter of the
+# learning-rate sweep (ft), on 100, 200 and 400 WikiText-103 records; the paper's prompts read with each lens (Test 1,
+# results/lens_refit/readout_n<N>.json), then their whole predicted distributions compared (Test 2, Table 4,
+# results/lens_dist/summary_n400.json). Needs the adapter: run lr_sweep.yaml first. About 10 h, no API.
+#   python -m factdepth.lens_refit experiments/configs/lens_refit.yaml
+name: lens_refit
+model: google/gemma-3-12b-it
+adapter: {sweep: results/lr_sweep, fact: P19_zhuang_fenghui, lr: 2.0e-5, lang: ZH, size: "3", steps: 256}
+n_fit: [100, 200, 400]
+n_dist: 400
+wikitext: null          # a local copy of Salesforce/wikitext wikitext-103-raw-v1/train-00000-of-00002.parquet (default: download)
+lenses: results/lens_refit/lenses
+out: results/lens_refit
+out_dist: results/lens_dist

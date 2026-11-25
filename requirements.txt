@@ -1,0 +1,16 @@
+# Versions of the environment that produced the paper's results (Python 3.12.13, CUDA 12.6 torch wheels).
+torch==2.7.1
+transformers==5.17.0
+peft==0.15.2
+accelerate==1.7.0
+huggingface_hub==1.32.0
+safetensors==0.8.0
+tokenizers==0.23.2
+numpy==2.1.1
+scipy==1.14.1
+pandas==2.2.3
+matplotlib==3.9.2
+requests==2.32.3
+openai==2.3.0
+# Jacobian lens library 0.1.0 (https://github.com/anthropics/jacobian-lens), pinned to the commit the paper used.
+jlens @ git+https://github.com/anthropics/jacobian-lens@581d398613e5602a5af361e1c34d3a92ea82ba8e

@@ -1,0 +1,16 @@
+# The main run: 3 models x 30 facts x training language {EN, second language} x {S1, S5, all} = 540 training runs,
+# each tested after 32, 64, 128 and 256 steps. Figure 1a-c, 3, 5, Tables 3 and 5, every number of Sec. 3, App. B.2, C.3,
+# C.5. The 256-step adapters are saved: known_ft.yaml (App. C.6) loads them. Several days (Gemma-3-12B about
+# 2 min per checkpoint, Gemma-3-27B 2.2, Qwen2.5-7B 6); the judge needs OPENROUTER_API_KEY (a few dollars).
+#   python -m factdepth.run experiments/configs/main.yaml
+name: main
+models: [google/gemma-3-12b-it, Qwen/Qwen2.5-7B-Instruct, google/gemma-3-27b-it]
+units: [zh_P19, ru_P19, zh_P20, ru_P20, zh_P937, ru_P937]
+langs: [ZH, EN]
+sizes: ["1", "5", "all"]
+steps: [32, 64, 128, 256]
+lr: 2.0e-5
+site: qv
+judge: openrouter
+save_adapters: true
+out: results/main

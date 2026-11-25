@@ -1,0 +1,21 @@
+# Reproduction of one model without any API key (about 13 hours): Gemma-3-12B, the 30 facts trained in the
+# second language, S1 / S5 / all, checkpoints 32..256 (S5 also at 16, 40, 48, 56, 96: Figure 1d). Judge "none": the
+# LLM routes take the pattern hit, so forgetting comes out about 2 points lower than the paper's. To grade it exactly
+# afterwards with the paper's verdicts (no GPU, no API):
+#   python -m factdepth.run experiments/configs/reproduce_gemma12b.yaml
+#   FACTDEPTH_REFERENCE=<reference results> python -m factdepth.run experiments/configs/reproduce_gemma12b.yaml \
+#       --regrade --judge reuse --reference paper:main,paper:fig1
+# Done 2026-11-19 (510 checkpoint files), regraded 2026-11-24: every loss, answer, J-lens rank, verdict and drop is
+# identical to the paper's.
+name: reproduce_gemma12b
+models: [google/gemma-3-12b-it]
+units: [zh_P19, ru_P19, zh_P20, ru_P20, zh_P937, ru_P937]
+langs: [ZH]
+sizes: ["1", "5", "all"]
+steps: [32, 64, 128, 256]
+steps_by_size:
+  "5": [16, 32, 40, 48, 56, 64, 96, 128, 256]
+lr: 2.0e-5
+site: qv
+judge: none
+out: results/reproduce_gemma12b

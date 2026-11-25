@@ -1,0 +1,18 @@
+# Figure 1d, e: the finer sweeps of Gemma-3-12B, trained in the second language. (d) S1, S5 and all templates also
+# tested after 16, 40, 48, 56 and 96 steps (training is deterministic: the same run as main.yaml, tested more often);
+# (e) adapters trained on the first 3, 10, 20 and 40 templates, tested after 64, 128 and 256 steps.
+#   python -m factdepth.run experiments/configs/fig1.yaml
+name: fig1
+models: [google/gemma-3-12b-it]
+units: [zh_P19, ru_P19, zh_P20, ru_P20, zh_P937, ru_P937]
+langs: [ZH]
+sizes: ["1", "5", "all", "3", "10", "20", "40"]
+steps: [64, 128, 256]
+steps_by_size:
+  "1": [16, 40, 48, 56, 96]
+  "5": [16, 40, 48, 56, 96]
+  "all": [16, 40, 48, 56, 96]
+lr: 2.0e-5
+site: qv
+judge: openrouter
+out: results/fig1
